@@ -1,0 +1,14 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.single{
+    padding: 50px;
+
+}
+
+.single img{
+    width: 200px;
+}
